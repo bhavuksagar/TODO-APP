@@ -1,0 +1,62 @@
+body{
+	background: url(https://raw.githubusercontent.com/dikshantsagar/AcadBot/master/acadbot/static/bg.jpg) ;
+	font-family: 'Futura', sans-serif;
+}
+#wrapper {
+	margin-top: 10% !important;
+	font-size: 16px;
+
+}
+#content {
+	background: #313131;
+	padding: 25px;
+}
+#content > h2 {
+	font-size: 22px;
+	text-align: center;
+	padding-top: 0;
+}
+.t10 {
+	margin-top: 10px;
+}
+.t20 {
+	margin-top: 20px;
+}
+.todo-completed {
+	text-decoration: line-through;
+	background: white;
+}
+footer {
+	margin-top: 20px;
+	color: white;
+}
+
+.list-group-item {
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    font-size: 22px;
+		color: black;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    z-index: 2;
+    margin-left: -1px;
+    background-color: #341f97;
+    border-color: #fff;
+}
+
+.btn-toolbar>.btn, .btn-toolbar>.btn-group, .btn-toolbar>.input-group {
+    margin-left: 5px;
+    background-color: #ffa801;
+}
+#content h2{
+	color: white;
+}
+h1{
+	width: 300px;
+	height: 10px;
+	padding-top :  40px;
+	margin: 0px;
+	color: white;
+
+}
